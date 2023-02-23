@@ -18,3 +18,12 @@
 
 <img width="1446" alt="Screenshot 2023-02-23 at 9 51 40 PM" src="https://user-images.githubusercontent.com/77115883/220967490-90855b34-a7f4-43ed-a26c-0811f3f14064.png">
 
+**Organizing Documents**
+- We can use clustering to organize a large number of documents into groups by converting the documents into vectors
+
+**Bag Of Words**
+- The bag-of-words model is a simplifying representation used in natural language processing and information retrieval
+- In this model, a text is represented as the bag of its words, disregarding grammar and even word order but keeping multiplicity
+- Probabilistic and DL models do not use bag of words approach
+
+
