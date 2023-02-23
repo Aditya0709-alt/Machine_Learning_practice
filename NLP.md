@@ -1,6 +1,6 @@
 ## Vector Models and Text Pre-processing for NLP
 
-** Some basic NLP Terms **
+**Some basic NLP Terms**
 > - Token: A sequence of words or tokens i.e. punctuations, sub-units of words
 > - In NLP, we build models in terms of either words or characters
 > - Vocabulary: A set of all words named vocabulary
